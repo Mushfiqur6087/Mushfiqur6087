@@ -7,59 +7,50 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a Level 4 Term 1 CSE student at BUET, passionate about software development and Machine Learning. I love solving challenging problems and collaborating on innovative projects.
+I’m a Level 4 Term 1 CSE student at BUET, passionate about building web apps, exploring ML research, and contributing to open-source.
 
 ---
 
-## 🎓 Education
-- **BUET** — B.Sc. in Computer Science & Engineering  
-  Level 4, Term 1 
+## 🧰 Tech Stack
 
----
-
-## 🚀 Skills & Technologies
-- **Languages:** Python · JavaScript · TypeScript · C/C++  
-- **Frameworks & Tools:** React · FastAPI · Docker · Git · Linux  
-- **ML & Data:** PyTorch · TensorFlow · scikit-learn  
-- **Interests:** Computer Vision · NLP · Data Science · Software Engineering 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,nodejs,express,docker,git,github,linux,pytorch,tensorflow,scikitlearn,mongodb" alt="Tech Icons" />
+</p>
 
 ---
 
 ## 🛠️ Projects
 
-### Academic Courseworks
+### 📚 Academic Courseworks
 - [BUET-CSE-Courseworks](https://github.com/Mushfiqur6087/BUET-CSE-Courseworks)  
-  A collection of my academic assignments and projects for BUET CSE course modules.
+  A collection of my semester assignments & mini-projects for BUET CSE modules.
+
+### 📝 NLBSE-25
+- [NLBSE-25](https://github.com/Mushfiqur6087/NLBSE-25)  
+  Code-comment classification research with transformer-based models (published at NLBSE 2025).
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mushfiqur6087&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur6087&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mushfiqur6087&theme=radical&row=1&column=5&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 🔥 Contributions
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Mushfiqur6087&theme=github" alt="Activity Graph" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mushfiqur6087&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/Mushfiqur6087" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 📫 Get in Touch
 - 🐙 GitHub: [@Mushfiqur6087](https://github.com/Mushfiqur6087)  
-- ✉️ Email: himel6087@gmail.com
-- 🔗 LinkedIn: [Mushfiqur Rahman](https://www.linkedin.com/in/mushfiqur-rahman-aab99417a/)
-  
+- ✉️ Email: [himel6087@gmail.com](mailto:himel6087@gmail.com)  
+- 🔗 LinkedIn: [Mushfiqur Rahman](https://www.linkedin.com/in/mushfiqur-rahman-aab99417a/)  
 
+---
+
+*“Strive for continuous growth—one commit at a time.”*  
