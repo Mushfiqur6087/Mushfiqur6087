@@ -39,10 +39,11 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mushfiqur6087&theme=onestar&column=4&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mushfiqur6087&theme=onestar&column=4&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
+
 
 ## 📈 GitHub Stats
 
