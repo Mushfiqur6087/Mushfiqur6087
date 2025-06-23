@@ -65,6 +65,29 @@
 
 ---
 
+---
+
+## 📊 GitHub Profile Overview
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mushfiqur6087&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <br />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=mushfiqur6087&theme=radical" alt="GitHub Streak Stats" />
+  <br />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqur6087&layout=compact&theme=radical&hide=jupyter%20notebook&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-count/mushfiqur6087?color=blueviolet&label=Public%20Repos&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/mushfiqur6087?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/mushfiqur6087?label=Stars&style=flat-square" />
+  <img src="https://img.shields.io/github/contributions/2024/mushfiqur6087?label=Contributions%20(2024)&style=flat-square" />
+</p>
+
+
 ## 📫 Let’s Connect
 - 🐙 **GitHub:** [@Mushfiqur6087](https://github.com/Mushfiqur6087)  
 - 💼 **LinkedIn:** [Mushfiqur Rahman](https://www.linkedin.com/in/mushfiqur-rahman-aab99417a/)  
