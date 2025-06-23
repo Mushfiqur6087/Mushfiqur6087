@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Mushfiqur**
+# 👋 Hi, I’m **Mushfiqur Rahman**
 
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Mushfiqur6087.Mushfiqur6087)](https://github.com/Mushfiqur6087)
 [![Followers](https://img.shields.io/github/followers/Mushfiqur6087?label=Follow&style=social)](https://github.com/Mushfiqur6087?tab=followers)
@@ -6,61 +6,64 @@
 
 ---
 
-## 👨‍💻 About Me
-I’m a **Level 4 Term 1 CSE** student at **BUET**, passionate about building web apps, exploring ML research, and contributing to open‑source.
+## 👨‍🎓 About Me
+🎓 Final-year **CSE undergraduate** at **BUET**  
+🔭 Passionate about **web development**, **machine learning research**, and **open-source**  
+📚 Actively publishing at conferences (e.g., _NLBSE 2025_)  
+🚀 Always exploring new ideas and tools to solve real-world problems
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,nodejs,express,docker,git,github,linux,pytorch,tensorflow,scikitlearn,mongodb,postgres,redis,vite" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,express,fastapi,docker,git,github,linux,vite,postgres,mongodb,redis,tensorflow,pytorch,scikitlearn" alt="Tech Stack" />
 </p>
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Featured Projects
 
-### 📚 Academic Courseworks
-- **[BUET‑CSE‑Courseworks](https://github.com/Mushfiqur6087/BUET-CSE-Courseworks)**  
-  Collection of semester assignments & mini‑projects for BUET CSE modules.
+### 📚 BUET CSE Coursework Archive
+- **[BUET-CSE-Courseworks](https://github.com/Mushfiqur6087/BUET-CSE-Courseworks)**  
+  A curated repository of academic assignments, labs, and mini-projects from core CSE courses.
 
-### 📝 NLBSE‑25
-- **[NLBSE‑25](https://github.com/Mushfiqur6087/NLBSE-25)**  
-  Code‑comment classification research with transformer‑based models _(published at NLBSE 2025)_.
+### 🧠 Transformer-based Code Comment Classifier
+- **[NLBSE-25](https://github.com/Mushfiqur6087/NLBSE-25)**  
+  Research on comment classification using transformers  
+  _Published at the 4th International Workshop on Natural Language-based Software Engineering (NLBSE 2025)_
 
 ---
 
 ## 🏆 GitHub Trophies
-
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mushfiqur6087&theme=light" alt="GitHub Trophies"/>
-</p>
-
-
----
-
-## 📈 GitHub Stats & Commit History
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mushfiqur6087&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=Mushfiqur6087&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur6087&layout=compact&theme=radical&hide=jupyter%20notebook&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mushfiqur6087&theme=light&column=4&row=2" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 🔥 Contributions
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/2E9AFE/Mushfiqur6087" alt="Annual Commit Chart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mushfiqur6087&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Mushfiqur6087&theme=radical" alt="GitHub Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur6087&layout=compact&theme=radical&hide=jupyter%20notebook&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Get in Touch
+## 🌱 Contributions Over Time
+<p align="center">
+  <img src="https://ghchart.rshah.org/2E9AFE/Mushfiqur6087" alt="Annual GitHub Commit Chart" />
+</p>
+
+---
+
+## 📫 Let’s Connect
 - 🐙 **GitHub:** [@Mushfiqur6087](https://github.com/Mushfiqur6087)  
-- ✉️ **Email:** [himel6087@gmail.com](mailto:himel6087@gmail.com)  
-- 🔗 **LinkedIn:** [Mushfiqur Rahman](https://www.linkedin.com/in/mushfiqur-rahman-aab99417a/)
+- 💼 **LinkedIn:** [Mushfiqur Rahman](https://www.linkedin.com/in/mushfiqur-rahman-aab99417a/)  
+- 📧 **Email:** [himel6087@gmail.com](mailto:himel6087@gmail.com)
 
 ---
 
-> *“Strive for continuous growth—one commit at a time.”*
+> _“Strive for continuous growth — one commit at a time.”_
