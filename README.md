@@ -57,7 +57,6 @@
 
 ---
 
-
 ## 📊 Kaggle Profile
 
 <p align="center">
@@ -66,11 +65,12 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Notebooks-3-informational?style=flat-square&logo=kaggle" />
-  <img src="https://img.shields.io/badge/Upvotes-5-blue?style=flat-square&logo=kaggle" />
-  <img src="https://img.shields.io/badge/Followers-1-lightgrey?style=flat-square&logo=kaggle" />
-</p>
+### 🏅 Achievements & Activity
+- ✔️ *Kaggle Novice* Tier  
+- 📓 Notebooks & Competitions:
+  - **Java Prediction Final** notebook (~6 months ago) on NLBSE‑datasets :contentReference[oaicite:2]{index=2}
+  - Participated in Bike Price Prediction discussions and misc competitions :contentReference[oaicite:3]{index=3}
+- 🛠️ Focus areas: Python, ML, Data Visualization, Transformer modeling
 
 ---
 
