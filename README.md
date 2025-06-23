@@ -19,6 +19,8 @@
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,express,fastapi,docker,git,github,linux,vite,postgres,mongodb,redis,tensorflow,pytorch,scikitlearn" alt="Tech Stack" />
 </p>
 
+🧠 **Additional Skills:** REST APIs, Prisma, Tailwind, Bash scripting, Pandas, OpenCV, Firebase, Supabase, JWT Auth
+
 ---
 
 ## 🛠️ Featured Projects
@@ -35,24 +37,27 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mushfiqur6087&theme=light&column=4&row=2" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mushfiqur6087&theme=onestar&column=4&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mushfiqur6087&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mushfiqur6087&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
   <img src="https://streak-stats.demolab.com?user=Mushfiqur6087&theme=radical" alt="GitHub Streak Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur6087&layout=compact&theme=radical&hide=jupyter%20notebook&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur6087&layout=compact&theme=radical&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🌱 Contributions Over Time
+
 <p align="center">
   <img src="https://ghchart.rshah.org/2E9AFE/Mushfiqur6087" alt="Annual GitHub Commit Chart" />
 </p>
