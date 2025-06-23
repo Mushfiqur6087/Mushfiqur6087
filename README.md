@@ -67,10 +67,7 @@
 
 ### 🏅 Achievements & Activity
 - ✔️ *Kaggle Novice* Tier  
-- 📓 Notebooks & Competitions:
-  - **Java Prediction Final** notebook (~6 months ago) on NLBSE‑datasets :contentReference[oaicite:2]{index=2}
-  - Participated in Bike Price Prediction discussions and misc competitions :contentReference[oaicite:3]{index=3}
-- 🛠️ Focus areas: Python, ML, Data Visualization, Transformer modeling
+- 🛠️ Focus areas: Python, ML, Data Visualization, Transformer modeling, Computer vision.
 
 ---
 
