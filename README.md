@@ -55,7 +55,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur6087&layout=compact&theme=radical&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
 </p>
 
+
 ---
+
+## 📚 Google Scholar Profile
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=nldFfnYAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Mushfiqur%20Rahman-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
+  </a>
+</p>
+
+---
+
 
 ## 📊 Kaggle Profile
 
