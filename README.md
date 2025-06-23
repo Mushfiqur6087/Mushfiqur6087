@@ -57,6 +57,24 @@
 
 ---
 
+
+## 📊 Kaggle Profile
+
+<p align="center">
+  <a href="https://www.kaggle.com/mushfiqurrahman6087" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Mushfiqurrahman6087-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Notebooks-3-informational?style=flat-square&logo=kaggle" />
+  <img src="https://img.shields.io/badge/Upvotes-5-blue?style=flat-square&logo=kaggle" />
+  <img src="https://img.shields.io/badge/Followers-1-lightgrey?style=flat-square&logo=kaggle" />
+</p>
+
+---
+
+
 ## 🌱 Contributions Over Time
 
 <p align="center">
@@ -64,6 +82,7 @@
 </p>
 
 ---
+
 
 
 ## 📫 Let’s Connect
