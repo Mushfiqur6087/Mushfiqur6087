@@ -95,7 +95,6 @@
 
 
 ## 📫 Let’s Connect
-- 🐙 **GitHub:** [@Mushfiqur6087](https://github.com/Mushfiqur6087)  
 - 💼 **LinkedIn:** [Mushfiqur Rahman](https://www.linkedin.com/in/mushfiqur-rahman-aab99417a/)  
 - 📧 **Email:** [himel6087@gmail.com](mailto:himel6087@gmail.com)
 
