@@ -31,8 +31,9 @@ I’m a **Level 4 Term 1 CSE** student at **BUET**, passionate about build
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mushfiqur6087&theme=radical&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mushfiqur6087&theme=radical&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
