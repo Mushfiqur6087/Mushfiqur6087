@@ -49,9 +49,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mushfiqur6087&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Mushfiqur6087&theme=radical" alt="GitHub Streak Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur6087&layout=compact&theme=radical&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
 </p>
 
