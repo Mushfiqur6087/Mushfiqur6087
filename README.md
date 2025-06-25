@@ -10,7 +10,8 @@
 🎓 Final-year **CSE undergraduate** at **BUET**  
 🔭 Passionate about **web development**, **machine learning research**, and **open-source**  
 📚 Actively publishing at conferences (e.g., _NLBSE 2025_)  
-🚀 Always exploring new ideas and tools to solve real-world problems
+🚀 Always exploring new ideas and tools to solve real-world problems  
+🌐 Portfolio: https://mushfiqur6087.github.io/
 
 ---
 
